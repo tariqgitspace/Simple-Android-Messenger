@@ -1,0 +1,1 @@
+python create_avd.py 5 C:\Users\Junaid\AppData\Local\Android\sdk

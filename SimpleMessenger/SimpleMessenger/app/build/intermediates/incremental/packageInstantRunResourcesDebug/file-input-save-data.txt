@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Mar 23 11:13:10 EDT 2017
+1.base=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\ic_launcher.png
+2.base=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=4
+1.set=ANDROID_RESOURCE
+3.base=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=D\:\\Semesters\\2nd_Semester\\DS\\Project\\Project1\\SimpleMessenger\\SimpleMessenger\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml

@@ -1,0 +1,1 @@
+python ../run_avd.py 2
